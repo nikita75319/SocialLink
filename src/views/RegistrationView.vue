@@ -42,7 +42,7 @@ export default {
                             "login": this.login,
                             "password": this.password,
                             "name": this.name,
-                            "webcite": this.webcite,
+                            "webcite": this.website,
                             "email": this.email,
                             "city": this.city,
                             "company": this.company,
